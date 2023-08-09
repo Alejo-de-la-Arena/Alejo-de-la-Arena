@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning JavaScript, ReactJs, Tailwind & NodeJs.
 - 💞️ I’m looking to collaborate with any company that needs a frontend developer.
 - 📫 How to reach me:
-- <mail> alejodelaarenaa@gmail.com </mail>
-- >Linkedin> www.linkedin.com/in/alejo-de-la-arena-372632246 </linkedin>
+- <mail> alejodelaarenaa@gmail.com 
+- www.linkedin.com/in/alejo-de-la-arena-372632246 
