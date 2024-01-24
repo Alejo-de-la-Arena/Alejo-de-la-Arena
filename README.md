@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alejo de la Arena.
-- 👀 I’m interested in working as a frontend developer.
-- 🌱 I’m currently learning JavaScript, ReactJs, Tailwind & NodeJs.
-- 💞️ I’m looking to collaborate with any company that needs a frontend developer.
+- 👀 I’m a Front-end Developer.
+- 🌱 I’m currently learning JavaScript, ReactJs & Python.
 - 📫 How to reach me:
 - <mail> alejodelaarenaa@gmail.com 
 - www.linkedin.com/in/alejo-de-la-arena-372632246 
