@@ -2,5 +2,5 @@
 - 👀 I’m a Front-end Developer.
 - 🌱 I’m currently learning JavaScript, ReactJs & Python.
 - 📫 How to reach me:
-- <mail> alejodelaarenaa@gmail.com 
+- alejodelaarenaa@gmail.com 
 - www.linkedin.com/in/alejo-de-la-arena-372632246 
