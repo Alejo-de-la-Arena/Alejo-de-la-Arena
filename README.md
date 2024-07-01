@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejo de la Arena.
 - 👀 I’m a Front-end Developer.
-- 🌱 I’m currently learning JavaScript, SQL, ReactJs & Python.
+- 🌱 I’m currently learning SQL, C++, MongoDB, Express, ReactJs & Python.
 - 📫 How to reach me:
 - alejodelaarenaa@gmail.com 
 - www.linkedin.com/in/alejo-de-la-arena-372632246 
