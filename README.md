@@ -3,4 +3,4 @@
 - 🌱 I’m currently working as a freelancer.
 - 📫 How to reach me:
 - alejodelaarenaa@gmail.com 
-- www.linkedin.com/in/alejo-de-la-arena-372632246 
+- www.linkedin.com/in/alejo-de-la-arena
